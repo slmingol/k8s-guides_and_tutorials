@@ -1,0 +1,1 @@
+https://iximiuz.com/kubernetes-operator-pattern/kube-api-structure-3000-opt.png
